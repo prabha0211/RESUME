@@ -1,0 +1,56 @@
+.contact-footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin-top:600px;
+}
+
+.contact-block {
+  flex: 1;
+  min-width: 200px;
+  margin: 10px;
+}
+
+.contact-heading {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.contact-description,
+.contact-phone,
+.contact-email,
+.contact-address,
+
+.business-hours {
+  margin: 5px 0;
+}
+
+  .contact-follow{
+    margin: 10px 0;
+  }
+
+
+.contact-link {
+  color: #f8f8f8;
+  text-decoration: none;
+}
+
+.contact-link:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .contact-footer {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .contact-block {
+    width: 100%;
+    margin: 10px 0;
+  }
+}

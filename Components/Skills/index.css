@@ -1,0 +1,42 @@
+.skills-container {
+  padding: 20px;
+  text-align: center;
+  height: 90vh;
+}
+
+.title-skill {
+  text-align: center;
+}
+
+.skills-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.skill-item {
+  margin: 10px 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.skill-name {
+  font-weight: bold;
+  text-align: left;
+}
+
+.progress-bar {
+  background-color: #f3f3f3;
+  border-radius: 5px;
+  overflow: hidden;
+  height: 20px;
+  width: 100%;
+  margin-top: 5px;
+}
+
+.progress {
+  background-color: skyblue;
+  height: 100%;
+  width: 0;
+  color: white;
+  transition: width 2s ease-in-out;
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Prabhadevi A",
+  "contact": {
+    "email": "prabhaanbu0211@gmail.com",
+    "phone": "+919092152363"
+  },
+  "education": [
+    {
+      "degree": "B.Tech Information Technology",
+      "institution": "Nandha college of technology",
+      "year": "2020-2024"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Frontend Developer",
+      "company": "Deus Tech",
+      "client": "Carl Zeiss",
+      "year": "2023-current",
+      "details": "Developing Medical Related web applications using React."
+    }
+  ],
+  "skills": [
+    { "name": "Core Java", "level": 70 },
+    { "name": "Html", "level": 90 },
+    { "name": "CSS", "level": 90 },
+    { "name": "JavaScript", "level": 70 },
+    { "name": "React", "level": 70 },
+    { "name": "Sql", "level": 85 },
+    { "name": "Github", "level": 90 },
+    { "name": "Bootstrap", "level": 70 }
+   
+  ],
+  "Projects":[
+    {
+    "id": 1,
+      "title": "Mobile Comparison Websites",
+      "description": "This projects aims to create a comprehensive platform for comparing mobile devices based on specification, features, prices and user reviews, facilitating informed purchasing decisions.",
+      "programs":"HTML,CSS,JAVASCRIPT,PHP,MYSQL",
+      "year":2023
+},
+
+{
+  "id": 2,
+  "title":" Ransomware Threats using RanGAN and Hash conceal",
+  "programs":"PYTHON,HTML,CSS,BOOTSTRAP,MYSQL",
+  "description":" This project aims to presents in response to escalating ransomware threats,develops a proactive defense strategy using RanGAN and Hash conceal techniques.",
+  "year": 2024
+},
+{
+
+"id": 3,
+"title":" Library Access System",
+"programs":"JAVA, JDBC for database connectivity, Mysql",
+"description":" The Library Access System allows users  to log in, search for books, check availability, and borrow or return them. The admin or librarian can manage book records, issue books, and History.",
+"year": 2025
+}
+  
+  
+
+  ],
+  
+  "services": [
+    {
+      "id": 1,
+      "title": "Web development.",
+      "description": "Developing high-quality content for websites and blogs."
+    },
+    {
+      "id": 2,
+      "title": "Mobile Development",
+      "description": "Creating user-friendly mobile applications."
+    },
+    
+    {
+      "id": 3,
+      "title": "UI/UX Design",
+      "description": "Crafting intuitive and engaging user experiences."
+    },
+    {
+      "id": 4,
+      "title": "Content Creation",
+      "description": "Developing high-quality content for websites and blogs."
+    }
+    
+  ]
+}
